@@ -1,0 +1,30 @@
+[
+  {
+    "nome": "São Paulo",
+    "data": "13/03/2026 13:04:31",
+    "condição": "Parcialmente Nublado",
+    "mínima": 19,
+    "máxima": 27
+  },
+  {
+    "nome": "Rio de Janeiro",
+    "data": "13/03/2026 13:04:36",
+    "condição": "Chuvas Isoladas",
+    "mínima": 24,
+    "máxima": 29
+  },
+  {
+    "nome": "Santos",
+    "data": "13/03/2026 13:04:53",
+    "condição": "Chuvas Isoladas",
+    "mínima": 21,
+    "máxima": 28
+  },
+  {
+    "nome": "Cruzeiro",
+    "data": "13/03/2026 13:05:09",
+    "condição": "Chuva",
+    "mínima": 20,
+    "máxima": 27
+  }
+]
